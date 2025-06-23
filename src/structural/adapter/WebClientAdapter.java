@@ -1,4 +1,4 @@
-package structural;
+package structural.adapter;
 
 public class WebClientAdapter implements WebClient {
     private final WebClientAdaptee adaptee;

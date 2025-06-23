@@ -1,4 +1,4 @@
-package structural;
+package structural.adapter;
 
 //This class expects webClient to be particular interface with particular methods,
 // but webClientAdaptee has another methods, so WebClientAdapter adapts those to required interface
