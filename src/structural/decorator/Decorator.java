@@ -1,4 +1,4 @@
-package structural;
+package structural.decorator;
 
 public class Decorator {
     private Decorator component;
@@ -7,7 +7,7 @@ public class Decorator {
         if (component != null) {
             component.doSmth();
         }
-        
+
         //doSmth
 
         return;
